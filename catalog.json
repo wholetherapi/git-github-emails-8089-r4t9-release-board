@@ -4,20 +4,22 @@
     {
       "id": "resonance-core",
       "title": "Resonance Core",
-      "code_url": "https://github.com/wholetherapi/git-github-emails-8089-r4t9-resonance-core"
+      "code_url": ""
     },
     {
       "id": "mixbus-bench",
       "title": "Mixbus Bench",
-      "code_url": "https://github.com/wholetherapi/git-github-emails-8089-r4t9-mixbus-bench"
+      "code_url": "https://github.com/OpenAudioStack/mixbus-bench"
     },
     {
       "id": "phasefield-neural",
-      "title": "PhaseField Neural"
+      "title": "PhaseField Neural",
+      "code_url": ""
     },
     {
       "id": "echotrace",
-      "title": "EchoTrace"
+      "title": "EchoTrace",
+      "code_url": ""
     }
   ]
 }
