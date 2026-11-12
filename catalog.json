@@ -1,0 +1,30 @@
+{
+  "release": "2026.11",
+  "projects": [
+    {
+      "id": "resonance-core",
+      "title": "Resonance Core",
+      "code_url": ""
+    },
+    {
+      "id": "timbre-forge",
+      "title": "Timbre Forge",
+      "code_url": ""
+    },
+    {
+      "id": "mixbus-bench",
+      "title": "Mixbus Bench",
+      "code_url": "https://github.com/OpenAudioStack/mixbus-bench"
+    },
+    {
+      "id": "phasefield-neural",
+      "title": "PhaseField Neural",
+      "code_url": ""
+    },
+    {
+      "id": "echotrace",
+      "title": "EchoTrace",
+      "code_url": ""
+    }
+  ]
+}

@@ -1,17 +1,10 @@
-# Sinewave Studio
+# Acoustic Toolkit Release Board
 
-A component of the Acoustic Toolkit.
+`catalog.json` is the machine-readable index for each release cycle.
 
-## Repository Status
+## Schema
 
-**Released** - v2.1.4 (2026-08-22). This repository contains the
-implementation of the Sinewave Studio component.
-
-## Releases
-
-- v2.1.4 - 2026-08-22
-- previous releases are listed in the package registry
-
-## Layout
-
-`src/`, `data/`, `experiments/`, `notebooks/`, `results/`, `tests/`.
+Each entry in `projects` has `id`, `title`, and an optional `code_url`.
+`code_url` should be omitted when no public repository is available for the
+project.  Repository links must point at the project's own repository under
+the toolkit owner's account.
